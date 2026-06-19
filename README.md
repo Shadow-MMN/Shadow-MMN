@@ -8,13 +8,13 @@ I'm Miracle Nnaji , a frontend Developer passionate about building modern web ap
 * Open-source contributor working on Stellar ecosystem projects through GrantFox.
 * Currently expanding my skills in Web3 and smart contract development.
 
-## 🔭 What I'm Currently Working On
+## What I'm Currently Working On
 
 ### Stellar Open Source Contributions
 
 Contributing to projects in the Stellar ecosystem, helping build tools and infrastructure that improve the developer and user experience.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * Tailwind CSS
 * JavaScript (ES6+)
 * React
