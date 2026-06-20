@@ -1,32 +1,35 @@
-# Hi,there 👋
+# Sup, looking for a dev who code you can trust ?
 
-I'm Miracle Nnaji , a frontend Developer passionate about building modern web applications, contributing to open source, and exploring blockchain technologies.
+I'm Miracle Nnaji, a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
+
+## Carrer
+- Frontend (my first career path)
+- Backend (my second career path)
+- Smart Contract (Currently learning)
+- Game dev (will learn in the future)
 
 ## About Me
-
-* Frontend Developer focused on React, Next.js, and modern web technologies.
-* Open-source contributor working on Stellar ecosystem projects through GrantFox.
-* Currently expanding my skills in Web3 and smart contract development.
+* Open-source contributor working on Stellar ecosystem projects.
+* Gamer 
+* Anime Weeb 
+* Christian 
 
 ## What I'm Currently Working On
 
 ### Stellar Open Source Contributions
+### Exploring web 3 
 
-Contributing to projects in the Stellar ecosystem, helping build tools and infrastructure that improve the developer and user experience.
 
-## Tech Stack & Tools
-* Tailwind CSS
-* JavaScript (ES6+)
-* React
-* Next.js
-* Git
+## Tech Stack
+- CSS & Tailwind
+- Javascript & Typescript
+- Next.js & React.js
+- Node.js & Express.js
+- Solidity (currently learning)
+- Rust (will learn)
+- C# (final stop)
 
-### Currently Exploring
 
-* Stellar Development
-* Smart Contracts
-* Web3 Development
-* Backend Engineering
 
 ## 📫 Connect With Me
 
@@ -38,4 +41,25 @@ Contributing to projects in the Stellar ecosystem, helping build tools and infra
 
 ---
 
-*"Building, learning, and contributing one commit at a time."*
+## Stats
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shadow-MMN&show_icons=true&theme=graywhite" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Shadow-MMN&theme=graywhite" />
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+*"Kaizen - One percent improvement everyday"*
