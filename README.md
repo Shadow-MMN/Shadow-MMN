@@ -29,16 +29,6 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 - Rust (will learn)
 - C# (final stop)
 
-
-
-## 📫 Connect With Me
-
-* Email: [nnajimakuochukwu4@gmail.com](mailto:nnajimakuochukwu4@gmail.com)
-* Telegram : https://t.me/Shadow_MMN
-* Twitter : https://x.com/Shadow_MMN
-* LinkedIn : https://www.linkedin.com/in/miracle-nnaji-615226338/
-
-
 ---
 
 ## Stats
@@ -58,7 +48,27 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 </tr>
 </table>
 
+---
 
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:nnajimakuochukwu4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://t.me/Shadow_MMN">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/Shadow_MMN">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/miracle-nnaji-615226338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
