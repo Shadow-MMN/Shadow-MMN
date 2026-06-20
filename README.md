@@ -16,8 +16,8 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 
 ## What I'm Currently Working On
 
-### Stellar Open Source Contributions
-### Exploring web 3 
+- Stellar Open Source Contributions
+- Exploring web 3 
 
 
 ## Tech Stack
