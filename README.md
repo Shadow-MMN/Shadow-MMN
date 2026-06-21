@@ -1,4 +1,4 @@
-# Sup, looking for a dev who code you can trust ?
+# Sup, looking for a dev whose code you can trust ?
 
 I'm Miracle Nnaji, a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
 
@@ -7,6 +7,8 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 - Backend (my second career path)
 - Smart Contract (Currently learning)
 - Game dev (will learn in the future)
+
+*Open to work remotely in any country*
 
 ## About Me
 * Open-source contributor working on Stellar ecosystem projects.
@@ -68,7 +70,7 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
   <a href="https://www.linkedin.com/in/miracle-nnaji-615226338/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p> 
 
 
 
