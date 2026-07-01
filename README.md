@@ -28,7 +28,7 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 - Next.js & React.js
 - Node.js & Express.js
 - Solidity (currently learning)
-- Rust (will learn)
+- Rust (currently learn)
 - C# (final stop)
 
 ---
