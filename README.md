@@ -35,20 +35,10 @@ I'm Miracle Nnaji, a software developer who believes that writing code is only h
 
 ## Stats
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shadow-MMN&show_icons=true&theme=graywhite" />
-
-</td>
-<td>
 
 <img src="https://streak-stats.demolab.com?user=Shadow-MMN&theme=graywhite" />
 
-</td>
-</tr>
-</table>
+
 
 ---
 
