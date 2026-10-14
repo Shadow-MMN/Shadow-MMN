@@ -1,6 +1,4 @@
-# Sup, looking for a dev whose code you can trust ?
-
-I'm Miracle Nnaji, a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
+# I'm Miracle Nnaji, a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
 
 ## Carrer
 - Frontend (my first career path)
