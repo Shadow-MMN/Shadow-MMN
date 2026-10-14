@@ -1,4 +1,6 @@
-# I'm Miracle Nnaji, a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
+# My name is Miracle Nnaji
+
+I am a software developer who believes that writing code is only half the job. The other half is testing it, validating it, and making sure it works as expected before pushing.
 
 ## Carrer
 - Frontend (my first career path)
